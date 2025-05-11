@@ -1,0 +1,31 @@
+{
+    "rizwan": {
+        "password": "$pbkdf2-sha256$29000$0fo/p9R6DyFkrFUqBYDQWg$xswKsWofRAhuX1yQ5KPPQE/Dpe7zqSg7szae1um4Zf0"
+    },
+    "fly baba": {
+        "password": "$pbkdf2-sha256$29000$N0ZI6b2XspbSGmPsvRfinA$4sOyim5AkMO9UOzRVzY6es2dZgIP/Y8Z3UCUMJomTyg",
+        "email": "pass@gmai;.com",
+        "phone": "02345678"
+    },
+    "bila": {
+        "password": "$pbkdf2-sha256$29000$q/U.h7C2NqaUMmbsnZPy3g$Xnw.Np4rA4NkQbwjZLTjEYUFPQ2zICq0iO0ewWPCKSg",
+        "email": "a@gmail.com",
+        "phone": "012345678"
+    },
+    "admin": {
+        "password": "$pbkdf2-sha256$29000$j/GeE.J8L4WQ0hqD0DqndA$GklAmQsQYX8ulKmZYRCVTbCjuGrYzGFDjiXldgnWuI4",
+        "email": "admin@crimeportal.com",
+        "phone": "1234567890",
+        "role": "admin",
+        "created_at": "2025-05-11T14:15:07.948264",
+        "last_login": null
+    },
+    "rizoo": {
+        "password": "$pbkdf2-sha256$29000$U0ppzdn731trrZWydi4FQA$sKakIYG5RnbIQezxzKGT8vZwxVmuRrhBvOq8y6bFbHE",
+        "email": "rizoo@gmail.com",
+        "phone": "1234567890",
+        "role": "user",
+        "created_at": "2025-05-11T14:18:03.098560",
+        "last_login": "2025-05-11T14:18:17.450420"
+    }
+}
